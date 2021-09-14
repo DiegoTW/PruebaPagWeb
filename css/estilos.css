@@ -50,7 +50,7 @@ header{
     position: fixed;
     top: 0;
     right: 0;
-    width: 30vw;
+    width: 35vw;
     height: 100%;
     background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
     display: flex;
@@ -67,7 +67,7 @@ header{
 }
 
 .menu-navegacion a{
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 300;
     color: #fff;
     text-decoration: none;
@@ -242,15 +242,15 @@ footer{
 }
 
 .contact-us{
-    width: 40%;
+    width: 50%;
     color: #fff;
-    
+    justify-content: flex-start;
 }
 
 .brand{
     font-weight: 500;
-    font-size: 25px;
-    margin: 10px 0;
+    font-size: 30px;
+    margin: 0;
 }
 
 .social-media{
